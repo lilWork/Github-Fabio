@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(42, 227, 165);
+}
+
+img { width: auto; height: 35px; }
+
+h1{ width: auto; height: 32px; }
+p{ text-align: justify; 
+   line-height: 18px; 
+    font-size: 14px;}

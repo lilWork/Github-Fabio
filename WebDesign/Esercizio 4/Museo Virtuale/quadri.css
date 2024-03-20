@@ -1,0 +1,78 @@
+.girasoli{
+    width: 250px;
+    height: auto;
+}
+
+.david{
+    width: 250px;
+    height: auto;
+}
+
+.orologi{
+    width: 250px;
+    height: auto;
+}
+header{
+    background-color: rgb(30, 30, 30);
+    color:antiquewhite;
+}
+
+body{
+        background-color: rgb(30, 30, 30);
+        text-align: center;
+        color:antiquewhite;
+}
+
+h3{
+    font-family: Garamond;
+    font-style: italic;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-style: bold;
+    color: rgb(74, 131, 255);
+}
+img{
+    position: relative;
+    border: 3px solid #ffffff; 
+    height: 400px;
+   width: auto;
+    
+    display: flex;
+    
+    
+    border-radius: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 5px;
+}
+A:LINK {
+    color: blueviolet;
+}
+A:HOVER {
+    color : Red;
+    text-decoration : underline;
+    }
+    p{
+        justify-content: center;
+        text-align:justify;
+
+    }
+   .homeimma{
+    align-items: center;
+    display: grid;
+   }
+
+   footer{
+    text-align: center;
+   }
+   .forzamessina{
+
+    text-align: center;
+   }
+   #flexbox{
+
+    display: flex;
+    justify-content: center;
+
+   }
