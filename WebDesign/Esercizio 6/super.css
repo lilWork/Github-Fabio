@@ -1,0 +1,32 @@
+#absolute{
+    position: fixed;
+top: 30px;
+right: 30px;
+width: 200px;
+height: 100px;
+background-color:blue ;
+}
+#fixed{
+    position: fixed;
+    background-color:beige ;
+    bottom: 20px;
+    right: 20px;
+    padding: 5%;
+}
+
+
+
+
+
+#sticky{
+    position: sticky;
+    background-color:red ;
+   top: 50px;
+   width: 200px;
+height: 100px;
+}
+
+#giuanni {
+    width: 200px;
+    height: 1000px;
+}

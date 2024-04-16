@@ -1,0 +1,38 @@
+#Testa {
+    position: fixed;
+    background-color: magenta;
+    padding: 5%;
+    height: 100px;
+    width: 200;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+
+}
+#Testa:hover {
+    animation-timing-function: ease-in-out;
+    transform: translateX(50px);
+    animation-delay: 1s;
+}
+
+
+
+#Blue{
+    position: fixed;
+    background-color: blue;
+    padding: 5px;
+    animation-name: nikopandetta;
+    animation-direction: alternate;
+  
+    
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+   
+}
+@keyframes nikopandetta{
+    0%{
+        background-color: blue;
+    }
+    100%{
+        background-color: red;
+    }
+}
